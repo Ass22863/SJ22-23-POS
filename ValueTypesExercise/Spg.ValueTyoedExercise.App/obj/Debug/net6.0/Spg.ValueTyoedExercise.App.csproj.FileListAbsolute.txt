@@ -1,0 +1,15 @@
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.csproj.AssemblyReference.cache
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.AssemblyInfoInputs.cache
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.AssemblyInfo.cs
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.csproj.CoreCompileInputs.cache
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\bin\Debug\net6.0\Spg.ValueTyoedExercise.App.exe
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\bin\Debug\net6.0\Spg.ValueTyoedExercise.App.deps.json
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\bin\Debug\net6.0\Spg.ValueTyoedExercise.App.runtimeconfig.json
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\bin\Debug\net6.0\Spg.ValueTyoedExercise.App.dll
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\bin\Debug\net6.0\Spg.ValueTyoedExercise.App.pdb
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.dll
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\refint\Spg.ValueTyoedExercise.App.dll
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.pdb
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\Spg.ValueTyoedExercise.App.genruntimeconfig.cache
+D:\Schule\5BAIF\POS\SJ22-23-POS\ValueTypesExercise\Spg.ValueTyoedExercise.App\obj\Debug\net6.0\ref\Spg.ValueTyoedExercise.App.dll

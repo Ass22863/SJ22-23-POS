@@ -1,7 +1,7 @@
 # SJ22-23-POS
 
-## Hello world
-Halbe ist doof
+## Abgabe Ordner POS
+from Samuel L. Jackson
 
 
 
