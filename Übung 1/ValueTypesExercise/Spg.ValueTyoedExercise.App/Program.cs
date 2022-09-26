@@ -44,7 +44,7 @@ namespace ValueTypes
         {
             
             
-            return nettopreis * steuerProdukt ?? nettopreis * steuerKategorie ?? nettopreis *(decimal)1.2;
+            return nettopreis * steuerProdukt ?? nettopreis * steuerKategorie ?? nettopreis * (decimal)1.2;
         }
 
         /// <summary>
